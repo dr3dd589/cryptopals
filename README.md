@@ -1,1 +1,1 @@
-# Cryptopals-Writeups
+# Cryptopals-Solutions
